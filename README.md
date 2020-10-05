@@ -23,16 +23,10 @@ I live in Porto Alegre, Brazil with my family (my wife and two daughters), and I
 -   Strong communicator, able to motivate and engage teams in multiple remote locations
     
 
-  
-
 ### ADDITIONAL SKILLS AND PROFICIENCIES
 
 -   Familiar with Agile and Scrum working methods
-    
--   Redux, Realm, JEST
-    
--   Angular, Vue, React Ecosystem (in learning)
-    
+            
 -   Knowledge of cybersecurity best-practices
     
 -   Docker, Vagrant, Kubernetes, Ansible, Infrastructure as a code
@@ -40,6 +34,14 @@ I live in Porto Alegre, Brazil with my family (my wife and two daughters), and I
 -   Confident building and optimizing development processes
     
 -   Experience with user testing
+
+### Github Stats  
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=jacksonfdam&show_icons=true&count_private=true)  
+
+![Github Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonfdam)  
+
+#### Views  
+![Profile views counter](https://komarev.com/ghpvc/?username=jacksonfdam&&style=flat-square) 
 
 <!--
 **jacksonfdam/jacksonfdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
